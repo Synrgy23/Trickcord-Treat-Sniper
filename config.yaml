@@ -1,17 +1,17 @@
 # Bot (user) token
-token: 'USERTOKEN'
+token: 'MzA5MTk3MDg1NTU3Nzg0NTc4.X0YYFA.yiPQAZJywppVCvSyaosI7wxoW3I'
 
 # ID of servers you would like to monitor for the bot in,
 # leave empty [] if you would like to monitor in all servers.
 ###
 # When spam is true and no channels are specified, the bot finds
 # channels to spam from the servers in this list.
-serverIds: ['123456']
+serverIds: ['181842741871902721']
 
 # ID of the channels you would like to spam in.
 # Can be left blank if spam is false, or if
 # you have inputted a server id in serverIds.
-channelIds: ['123456', '654321']
+channelIds: ['181842741871902721']
 
 # Would you like to send (then immediately delete)
 # a message every {$spamInterval} seconds?
